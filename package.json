@@ -1,0 +1,23 @@
+{
+  "name": "mydeliciousworkout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mohsinali/mydeliciousworkout.git"
+  },
+  "author": "Mohsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsinali/mydeliciousworkout/issues"
+  },
+  "homepage": "https://github.com/mohsinali/mydeliciousworkout#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.5",
+    "hbs": "^4.0.1"
+  }
+}
