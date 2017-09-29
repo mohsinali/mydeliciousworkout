@@ -1,0 +1,10 @@
+body {
+  background-color: #000;
+}
+
+.box {
+  height: 8rem;
+  margin-right: 4.5rem;
+  background-color: #957bbe;
+  border-radius: .25rem;
+}
